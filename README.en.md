@@ -4,7 +4,7 @@
 
 # Hi, I'm Lorenzo Melis 👋
 
-### Junior Full Stack Developer · EPICODE AI Full Stack Developer
+### Full Stack Developer · EPICODE AI Full Stack Developer
 
 Computer engineering graduate with a background in **cybersecurity**.
 During the EPICODE program I went from static HTML to complete applications running in production:
@@ -111,7 +111,7 @@ a player-to-player market and more than 140,000 cards from over 20 card games.
 
 ## 🎯 Next goals
 
-- First role as a full stack, frontend or backend developer
+- Role as a full stack, frontend or backend developer
 - Deepen software architecture, application security and cloud skills
 - Bring VinylDex to a stable release on the mobile app stores
 
