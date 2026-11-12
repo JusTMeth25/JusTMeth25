@@ -46,12 +46,6 @@ mercato fra giocatori e oltre 140.000 carte da più di 20 giochi di carte.
 | [**EpiWeather**](https://github.com/JusTMeth25/FS0226IT---PROGETTO-SETTIMANA-10) | Meteo e previsioni per città con geocoding e artwork dinamico | React, React Router, OpenWeather API, Vitest |
 | [**Portfolio**](https://github.com/JusTMeth25/Portfolio-Page) · [sito](https://justmeth25.github.io/Portfolio-Page/) | Sito personale con vinile 3D e CV in italiano e inglese | React, TypeScript, Three.js, Motion, Vitest |
 
-**Build week di gruppo:**
-[Quiz App](https://github.com/SaltyGhosty/Build-Week-1) (JavaScript) ·
-[Spotify Clone](https://github.com/Gabrieleleonardi21/Build-week-2) (HTML, CSS, JavaScript, iTunes API) ·
-[SocialApp](https://github.com/l5-cryptohhhh/Build-week-3) (React, Redux Toolkit, Firebase) ·
-[Build week 4](https://github.com/Gabrieleleonardi21/build-week-4) (Spring Boot, JWT, PostgreSQL)
-
 ---
 
 ## 🛤️ Il percorso EPICODE
