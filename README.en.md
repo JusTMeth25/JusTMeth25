@@ -46,12 +46,6 @@ a player-to-player market and more than 140,000 cards from over 20 card games.
 | [**EpiWeather**](https://github.com/JusTMeth25/FS0226IT---PROGETTO-SETTIMANA-10) | City weather and forecasts with geocoding and dynamic artwork | React, React Router, OpenWeather API, Vitest |
 | [**Portfolio**](https://github.com/JusTMeth25/Portfolio-Page) · [site](https://justmeth25.github.io/Portfolio-Page/) | Personal website with a 3D vinyl and CV in Italian and English | React, TypeScript, Three.js, Motion, Vitest |
 
-**Team build weeks:**
-[Quiz App](https://github.com/SaltyGhosty/Build-Week-1) (JavaScript) ·
-[Spotify Clone](https://github.com/Gabrieleleonardi21/Build-week-2) (HTML, CSS, JavaScript, iTunes API) ·
-[SocialApp](https://github.com/l5-cryptohhhh/Build-week-3) (React, Redux Toolkit, Firebase) ·
-[Build week 4](https://github.com/Gabrieleleonardi21/build-week-4) (Spring Boot, JWT, PostgreSQL)
-
 ---
 
 ## 🛤️ The EPICODE journey
